@@ -235,19 +235,26 @@ The Nginx service was initially tested locally before attempting public access.
 
 ---
 
-## Screenshots
-
-The `screenshots` directory contains evidence of the project implementation, including:
-
-* Azure VM configuration.
-* Network and security settings.
-* SSH connection.
-* Linux system information.
-* Nginx installation and service status.
-* Localhost testing.
-* Public webpage access.
-* NSG inbound security rules.
-* Custom HTML webpage deployment.
+## Repository Structure
+azure-linux-vm-nginx/
+│
+├── README.md
+│
+├── screenshots/
+│   ├── 01-azure-vm-overview.jpeg
+│   ├── 02-vm-networking-and-security.jpeg
+│   ├── 03-ssh-connection-command.jpeg
+│   ├── 07-linux-system-information.jpeg
+│   ├── 08-nginx-installation.jpeg
+│   ├── 09-nginx-service-status.jpeg
+│   ├── 10-nginx-service-and-localhost-testing.jpeg
+│   ├── 11-nginx-public-access.jpeg
+│   ├── 12-nsg-inbound-rules.jpeg
+│   ├── 13-custom-html-deployment.jpeg
+│   └── 14-custom-webpage-file-and-editing.jpeg
+│
+└── website/
+    └── index.html
 
 ---
 
