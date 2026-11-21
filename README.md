@@ -235,26 +235,51 @@ The Nginx service was initially tested locally before attempting public access.
 
 ---
 
-## Repository Structure
-azure-linux-vm-nginx/
-│
-├── README.md
-│
-├── screenshots/
-│   ├── 01-azure-vm-overview.jpeg
-│   ├── 02-vm-networking-and-security.jpeg
-│   ├── 03-ssh-connection-command.jpeg
-│   ├── 07-linux-system-information.jpeg
-│   ├── 08-nginx-installation.jpeg
-│   ├── 09-nginx-service-status.jpeg
-│   ├── 10-nginx-service-and-localhost-testing.jpeg
-│   ├── 11-nginx-public-access.jpeg
-│   ├── 12-nsg-inbound-rules.jpeg
-│   ├── 13-custom-html-deployment.jpeg
-│   └── 14-custom-webpage-file-and-editing.jpeg
-│
-└── website/
-    └── index.html
+## Screenshots
+
+### 1. Azure VM Overview
+
+![Azure VM Overview](./screenshots/01-azure-vm-overview.jpeg)
+
+### 2. VM Networking and Security
+
+![VM Networking and Security](./screenshots/02-vm-networking-and-security.jpeg)
+
+### 3. SSH Connection
+
+![SSH Connection](./screenshots/03-ssh-connection-command.jpeg)
+
+### 4. Linux System Information
+
+![Linux System Information](./screenshots/07-linux-system-information.jpeg)
+
+### 5. Nginx Installation
+
+![Nginx Installation](./screenshots/08-nginx-installation.jpeg)
+
+### 6. Nginx Service Status
+
+![Nginx Service Status](./screenshots/09-nginx-service-status.jpeg)
+
+### 7. Nginx Localhost Testing
+
+![Nginx Localhost Testing](./screenshots/10-nginx-service-and-localhost-testing.jpeg)
+
+### 8. Public Nginx Access
+
+![Public Nginx Access](./screenshots/11-nginx-public-access.jpeg)
+
+### 9. NSG Inbound Rules
+
+![NSG Inbound Rules](./screenshots/12-nsg-inbound-rules.jpeg)
+
+### 10. Custom HTML Deployment
+
+![Custom HTML Deployment](./screenshots/13-custom-html-deployment.jpeg)
+
+### 11. Custom Webpage File and Editing
+
+![Custom Webpage File and Editing](./screenshots/14-custom-webpage-file-and-editing.jpeg)
 
 ---
 
