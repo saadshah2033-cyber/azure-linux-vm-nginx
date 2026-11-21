@@ -259,27 +259,29 @@ The Nginx service was initially tested locally before attempting public access.
 
 ### 6. Nginx Service Status
 
-![Nginx Service Status](./screenshots/09-nginx-service-status.jpeg)
+![Nginx Service Status](./screenshots/08-nginx-service-status.jpeg)
 
-### 7. Nginx Localhost Testing
+### 7. Nginx Service and Localhost Testing
 
-![Nginx Localhost Testing](./screenshots/10-nginx-service-and-localhost-testing.jpeg)
+![Nginx Service and Localhost Testing](./screenshots/09-nginx-service-and-localhost-testing.jpeg)
 
 ### 8. Public Nginx Access
 
-![Public Nginx Access](./screenshots/11-nginx-public-access.jpeg)
+![Public Nginx Access](./screenshots/10-nginx-public-access.jpeg)
 
 ### 9. NSG Inbound Rules
 
-![NSG Inbound Rules](./screenshots/12-nsg-inbound-rules.jpeg)
+![NSG Inbound Rules](./screenshots/11-nsg-inbound-rules.jpeg)
 
 ### 10. Custom HTML Deployment
 
-![Custom HTML Deployment](./screenshots/13-custom-html-deployment.jpeg)
+![Custom HTML Deployment](./screenshots/12-custom-html-deployment.jpeg)
 
 ### 11. Custom Webpage File and Editing
 
-![Custom Webpage File and Editing](./screenshots/14-custom-webpage-file-and-editing.jpeg)
+![Custom Webpage File and Editing](./screenshots/13-custom-webpage-file-and-editing.jpeg)
+
+
 
 ---
 
