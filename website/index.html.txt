@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure Linux VM</title>
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #0f172a;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+
+        .container {
+            padding: 40px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+        }
+
+        p {
+            color: #cbd5e1;
+            font-size: 1.1rem;
+            margin-bottom: 25px;
+        }
+
+        .status {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #14532d;
+            color: #86efac;
+            border-radius: 8px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to My Azure Linux Server!</h1>
+
+        <p>
+            This website is hosted on an Ubuntu 24.04 Linux virtual
+            machine running on Microsoft Azure using Nginx.
+        </p>
+
+        <div class="status">
+            Server Status: Online
+        </div>
+    </div>
+</body>
+</html>
